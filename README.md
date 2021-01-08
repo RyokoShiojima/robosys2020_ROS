@@ -65,10 +65,13 @@ $ pip3 install googletrans==4.0.0-rc1
    - 終了するにはそれぞれの端末でctrl+c
 
 ### 実演動画
- - 翻訳なしバージョン
+
+ - 画像をクリックすると動画のリンクに飛びます
+
+  - 翻訳なしバージョン
   [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/DbEM8GMXG3I/0.jpg)](https://youtu.be/DbEM8GMXG3I) 
 
- - 翻訳ありバージョン
+  - 翻訳ありバージョン[こちら↓](https://youtu.be/7IUDDHJ30jg)
   [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/7IUDDHJ30jg/0.jpg)](https://youtu.be/7IUDDHJ30jg)
 
 ## LICENCE
